@@ -23,10 +23,6 @@ The ZIP contains:
 5. Select **main**, choose **/(root)**, and click **Save**.
 6. When deployment finishes, use **Visit site** in Pages settings. Share that live link in your interview follow-up. Future commits to `main` update the site.
 
-No build command or installation step is needed. A project repository will normally have a URL such as `https://YOUR-USERNAME.github.io/store-stock-lookup/`. GitHub Pages can take a few minutes to publish. If you see a 404, check that the file is named exactly `index.html`, is at the selected folder's root, and the deployment succeeded in the Actions tab.
-
-Official instructions: [Configure a GitHub Pages publishing source](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) and [Create a GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
-
 ## A short demonstration
 
 1. Search for **Jasmine** or **RC-10421**, then select **View stores**. The same page opens a native popup showing all six stores and **296 bags** in total.
