@@ -4,7 +4,7 @@ A multi-store inventory tool for grocery chains. Pick an item and see how much
 is on hand at every store, plus the chain-wide total, in a popup without
 leaving the page.
 
-**[Try it live →](YOUR-GITHUB-PAGES-LINK)** (sample data, nothing to install)
+**[Try it live →](https://dhruvprmr.github.io/store-lookup/)** (sample data, nothing to install)
 
 ![Popup showing stock by store](screenshot.png)
 
